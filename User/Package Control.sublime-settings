@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"Babel",
+		"Babel Snippets",
+		"Djaneiro",
+		"Emmet",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-addon-black-for-flake",
+		"SublimeLinter-pep8",
+		"TrailingSpaces"
+	]
+}
