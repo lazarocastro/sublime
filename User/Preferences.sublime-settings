@@ -10,5 +10,7 @@
 	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"vintageous_use_ctrl_keys": true,
-	"vintageous_use_super_keys": false
+	"vintageous_use_super_keys": false,
+	"hot_exit": false,
+	"remember_open_files": false,
 }
